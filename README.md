@@ -1,2 +1,2 @@
 # Swati Chanchal 
-The Link for my website :  https://swatichanchal.github.io/swati05/
+My personal website :  https://swatichanchal.github.io/swati05/
